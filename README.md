@@ -25,9 +25,10 @@ This project performs automatic lung nodule segmentation on CT images using a U-
 Open notebook.ipynb in Google Colab and run all cells.
 
 ## 📷 Sample Results
-(you can add images here)<img width="1574" height="1644" alt="Tahmin_karsilastirmesi" src="https://github.com/user-attachments/assets/58e41d34-c2d8-45eb-bd1a-605e33d5cd2a" /><img width="2084" height="770" alt="training_history" src="https://github.com/user-attachments/assets/82eb5197-b568-4cec-97da-d70a4eda9d29" />
+<img width="2084" height="770" alt="training_history" src="https://github.com/user-attachments/assets/6707cc76-167a-4b88-933f-5bb522472d8f" />
 
 
+<img width="1574" height="1644" alt="Tahmin_karsilastirmesi" src="https://github.com/user-attachments/assets/f8d1a8ef-69ec-4e2a-b78a-a80f3c6e5741" />
 
 
 
